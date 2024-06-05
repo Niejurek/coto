@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5C18-061C
+
+ Directory of C:\Users\jerzy\source\repos\coto
+
+05.06.2024  17:26    <DIR>          .
+05.06.2024  17:26    <DIR>          ..
+05.06.2024  17:26                 0 coto1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  33ÿ591ÿ922ÿ688 bytes free
